@@ -22,4 +22,14 @@ ___  all Changes done at GitHub code___
 go and check 
 
 ---- lets try with  commands ----
+step 1. edit
+step 2. save
+step 3. check with ---   $ git status
+step 4. ---              $ git add <filename which is we modified or edited >
+                         Example --   $ git add README.md
+step 5. $ git commit -m  "commit"
+step 6. $ git push
 
+step 7 Go and check at github code for updations did or not ?
+
+------------- The End -------------------------------
