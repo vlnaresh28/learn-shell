@@ -1,7 +1,2 @@
-# learn-shell
-
-First Learn Topic Wise
-
-Deleted All Lines
-
-how to do edit on cloud9
+file Edit Process on Cloud9 Terminal
+step 1.double click the file which you want to edit
