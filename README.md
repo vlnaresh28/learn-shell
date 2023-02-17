@@ -44,6 +44,8 @@ now go to editer tab which is at top side
 
  now come back to bottom Terminal
  
-3.$ git add <Name_of_the_file_which_we_edited now> example ----> here we edit the "README.md" file
+3.$ git add <Name_of_the_file_which_we_edited now> example ----> here we edit the "README.md" file 
+  $ git add README.md
+
 4.$ git commit -m  "comments"
 5.$ git push
