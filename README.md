@@ -36,8 +36,14 @@ step 7 Go and check at github code for updations did or not ?
 
 short cut  steps for command prompt execution
 
-1.edit
-2.save
-3.$ git add README.md
+1.$ cd <repositories_name>/      example  ----> $ cd learn-shell/
+
+now go to editer tab which is at top side 
+
+2.edit & save
+
+ now come back to bottom Terminal
+ 
+3.$ git add <Name of the file which we edited now > example ----> here we edit the "README.md" file
 4.$ git commit -m  "comments"
 5.$ git push
