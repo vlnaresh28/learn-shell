@@ -8,3 +8,15 @@ step 6. select commit
 step 7. if a new window opens select yes
 step 8. now goto menu icon right click -- select push
 Step 9. if new popup message shows --- and ask for save&push
+
+
+Short cut steps
+
+1.edit
+2.save
+3.commit
+4.push
+
+___  all Changes done at GitHub code___
+
+go and check 
