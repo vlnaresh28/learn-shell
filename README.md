@@ -33,3 +33,11 @@ step 6. $ git push
 step 7 Go and check at github code for updations did or not ?
 
 ------------- The End -------------------------------
+
+short cut  steps for command prompt execution
+
+1.edit
+2.save
+3.$ git add README.md
+4.$ git commit -m  "comments"
+5.$ git push
